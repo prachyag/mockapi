@@ -66,7 +66,7 @@
             "deal_id": "40091"
         }
     ]
-  }
+  },
   
   
   "prizes": {"prize":[
@@ -82,7 +82,7 @@
     "2\nHOT",
     "10\nHOT",
     "1\nHOT"
-  ]}
+  ]},
   
   "balance" : {"@id": "/me", 
     "asset": {
