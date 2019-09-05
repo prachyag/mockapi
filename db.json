@@ -1,0 +1,98 @@
+{
+  "deals":{
+	
+    "result": "success",
+    "total_deal": 2,
+    "owner": "No",
+    "administrator": "No",
+    "list_deal": [
+        {
+            "company_id": "81352",
+            "company_name": "Dunkin Donuts  ",
+            "company_city": "คลองเตย ",
+            "category_name": "Bakeries & Cafés",
+            "branch_category_name": "Bakeries & Cafés",
+            "company_profile_image": "https://d8lc2p9t6ahp6.cloudfront.net/company/profile/9024_84372_20190617165430.jpeg",
+            "user_id": "80117",
+            "deal_title": "ดังกิ้น ทาโกะยากิ สไตล์ โดนัท",
+            "deal_description": "ดังกิ้น ทาโกะยากิ สไตล์ โดนัท ความอร่อยใหม่ที่ทุกคนห้ามพลาด!",
+            "deal_badge": "",
+            "deal_image": "https://d8lc2p9t6ahp6.cloudfront.net/company/deals/gbsugj_80117_80117_20190821132422.",
+            "deal_image_width": "600",
+            "deal_image_height": "600",
+            "deal_type": "1",
+            "repeating_type": "0",
+            "deal_premium": "0",
+            "deal_issue": "0",
+            "deal_amount": "0",
+            "time_begin": "",
+            "time_end": "",
+            "repeat_number": "0",
+            "repeat_month_by": "0",
+            "repeat_days": "",
+            "start_date": "2019-08-21",
+            "start_time": "0:01",
+            "expire_type": "0",
+            "occurrences": null,
+            "expire_date": "2019-08-31",
+            "expire_time": "23:59",
+            "loves": "1",
+            "click_loved": "No",
+            "status": "1",
+            "deal_approve": "0",
+            "approve_datetime": "0000-00-00 00:00:00",
+            "created_at": "2019-08-21 13:25:00",
+            "updated_at": "2019-08-25 22:49:47",
+            "exclusive": "No",
+            "shakable": "No",
+            "sent_to_username": null,
+            "sent_to_user": null,
+            "sent_date": null,
+            "get_from_username": null,
+            "get_from_user": null,
+            "get_date": null,
+            "pocket_id": null,
+            "gifting": "No",
+            "claim": "No",
+            "redeem": "No",
+            "coupon_code": null,
+            "used_date": null,
+            "shake_available": "0",
+            "shake_claim": "",
+            "shake_value": "",
+            "shake_type": "",
+            "shake_currency": "",
+            "comment_records": "0",
+            "deal_id": "40091"
+        }
+    ]
+  }
+  
+  
+  "prizes": [
+    "  100,000  \nHOT",
+    "5\nHOT",
+    "1,000\nHOT",
+    "200\nHOT",
+    "20\nHOT",
+    "100\nHOT",
+    "10,000\nHOT",
+    "50\nHOT",
+    "500\nHOT",
+    "2\nHOT",
+    "10\nHOT",
+    "1\nHOT"
+  ]
+  
+  "balance" : {"@id": "/me", 
+    "asset": {
+        "HOT": "10.0000000", 
+        "XLM": "1.5001000"
+    }, 
+    "consumer_address": "GDGYZBIO6JDUIBD7Y633JRKYCSUOO542RN7PBAYFH3NV3VTQ6XCDSQCX", 
+    "consumer_id": "1566906825-meakbJuCoL_pCBiJmww8u2oGS5BDOFh7",   
+    "pending_hot": "0.0000000"
+}
+
+  
+}
