@@ -69,7 +69,7 @@
   }
   
   
-  "prizes": [
+  "prizes": {"prize":[
     "  100,000  \nHOT",
     "5\nHOT",
     "1,000\nHOT",
@@ -82,7 +82,7 @@
     "2\nHOT",
     "10\nHOT",
     "1\nHOT"
-  ]
+  ]}
   
   "balance" : {"@id": "/me", 
     "asset": {
